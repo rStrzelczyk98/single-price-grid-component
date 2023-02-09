@@ -13,7 +13,7 @@ Users should be able to:
 
 ## Links
 
-- Live Site URL: [Price card]()
+- Live Site URL: [Price card](https://rstrzelczyk98.github.io/single-price-grid-component/)
 
 ## Built with
 
